@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @giovanniAccetta, engineer and in this moment an Information Systems Specialist
 - 👀 I’m interested in Data Science and Information Systems
-- 🌱 I’m currently completing my Data Science Professional Certificate (authorized by IBM) and I'm studying some basics of Cybersecurity
 - 💞️ I’m looking to collaborate on some interesting projects about data 
 - 📫 My e-mail address is giovanniaccetta@ymail.com
 
